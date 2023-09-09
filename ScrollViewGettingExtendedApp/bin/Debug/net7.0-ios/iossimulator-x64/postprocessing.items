@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="ScrollViewGettingExtendedApp.app/ScrollViewGettingExtendedApp">
+      <BCSymbolMapName>ScrollViewGettingExtendedApp.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>ScrollViewGettingExtendedApp.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>\Users\roman\Library\Caches\Xamarin\mtbs\builds\ScrollViewGettingExtendedApp\333f5b1892af7cef24967bfb1db44ef24bdab9a8d3541c8fe25aa28ddb0724a1\obj\Debug\net7.0-ios\iossimulator-x64\mtouch-symbols.list</SymbolFile>
+      <DSymName>ScrollViewGettingExtendedApp.app.dSYM</DSymName>
+      <SourceProjectPath>C:\Users\roman\Desktop\NeuerOrdner\1\ScrollViewGettingExtendedApp\ScrollViewGettingExtendedApp</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

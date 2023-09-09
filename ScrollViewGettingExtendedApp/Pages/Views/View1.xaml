@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:views="clr-namespace:ScrollViewGettingExtendedApp.Pages.Views"
+             xmlns:viewModels="clr-namespace:ScrollViewGettingExtendedApp.ViewModels"
+             x:DataType="viewModels:View1ViewModel"
+             x:Class="ScrollViewGettingExtendedApp.Pages.Views.View1">
+
+    <Grid RowDefinitions="Auto">
+
+        <!--Just a Background Image and a LinearGradient-->
+        <views:BackgroundImageView x:Name="BackgroundImage" VerticalOptions="Start"/>
+
+        <ScrollView Grid.Row="0" VerticalOptions="FillAndExpand" Background="Green">
+            <StackLayout>
+                <Label Text="Label 1"/>
+                <Label Text="Label 2"/>
+                <Label Text="Label 3"/>
+                <Label Text="Label 4"/>
+                <Label Text="Label 5"/>
+                <Label Text="Label 6"/>
+                <Label Text="Label 7"/>
+                <Label Text="Label 8"/>
+                <Label Text="Label 9"/>
+                <Label Text="Label 10"/>
+                <Label Text="Label 11"/>
+                <Label Text="Label 12"/>
+                <Label Text="Label 13"/>
+                <Label Text="Label 14"/>
+                <Label Text="Label 15"/>
+                <Label Text="Label 16"/>
+                <Label Text="Label 17"/>
+                <Label Text="Label 18"/>
+                <Label Text="Label 19"/>
+                <Label Text="Label 20"/>
+                <Label Text="Label 21"/>
+                <Label Text="Label 22"/>
+                <Label Text="Label 23"/>
+                <Label Text="Label 24"/>
+                <Label Text="Label 25"/>
+                <Label Text="Label END"/>
+            </StackLayout>
+        </ScrollView>
+
+    </Grid>
+
+
+</ContentView>

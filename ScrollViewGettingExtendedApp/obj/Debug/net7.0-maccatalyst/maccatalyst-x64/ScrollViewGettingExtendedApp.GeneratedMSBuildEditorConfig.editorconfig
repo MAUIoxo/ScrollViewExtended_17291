@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net7.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ScrollViewGettingExtendedApp
+build_property.ProjectDir = C:\Users\roman\Desktop\NeuerOrdner\ScrollViewExtended_17291\ScrollViewGettingExtendedApp\
+
+[C:/Users/roman/Desktop/NeuerOrdner/ScrollViewExtended_17291/ScrollViewGettingExtendedApp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ScrollViewGettingExtendedApp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/roman/Desktop/NeuerOrdner/ScrollViewExtended_17291/ScrollViewGettingExtendedApp/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ScrollViewGettingExtendedApp.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/roman/Desktop/NeuerOrdner/ScrollViewExtended_17291/ScrollViewGettingExtendedApp/Pages/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ScrollViewGettingExtendedApp.Pages.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\MainPage.xaml
+
+[C:/Users/roman/Desktop/NeuerOrdner/ScrollViewExtended_17291/ScrollViewGettingExtendedApp/Pages/Views/BackgroundImageView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ScrollViewGettingExtendedApp.Pages.Views.BackgroundImageView.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Views\BackgroundImageView.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Views\BackgroundImageView.xaml
+
+[C:/Users/roman/Desktop/NeuerOrdner/ScrollViewExtended_17291/ScrollViewGettingExtendedApp/Pages/Views/View1.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ScrollViewGettingExtendedApp.Pages.Views.View1.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Views\View1.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Views\View1.xaml
+
+[C:/Users/roman/Desktop/NeuerOrdner/ScrollViewExtended_17291/ScrollViewGettingExtendedApp/Pages/Views/View2.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ScrollViewGettingExtendedApp.Pages.Views.View2.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Views\View2.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Views\View2.xaml
+
+[C:/Users/roman/Desktop/NeuerOrdner/ScrollViewExtended_17291/ScrollViewGettingExtendedApp/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ScrollViewGettingExtendedApp.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/roman/Desktop/NeuerOrdner/ScrollViewExtended_17291/ScrollViewGettingExtendedApp/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ScrollViewGettingExtendedApp.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
